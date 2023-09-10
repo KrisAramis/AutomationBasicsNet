@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpBasics", "CSharpBasics\CSharpBasics.csproj", "{0F4034B2-AFB7-404F-84D0-A238FA50958D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpOOP2", "CSharpOOP2\CSharpOOP2.csproj", "{00A92B14-FEE8-4C75-954E-454A2EFCE026}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{0F4034B2-AFB7-404F-84D0-A238FA50958D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0F4034B2-AFB7-404F-84D0-A238FA50958D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0F4034B2-AFB7-404F-84D0-A238FA50958D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00A92B14-FEE8-4C75-954E-454A2EFCE026}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00A92B14-FEE8-4C75-954E-454A2EFCE026}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00A92B14-FEE8-4C75-954E-454A2EFCE026}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00A92B14-FEE8-4C75-954E-454A2EFCE026}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
