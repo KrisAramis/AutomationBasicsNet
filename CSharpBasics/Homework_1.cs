@@ -1,6 +1,5 @@
 ﻿namespace CSharpBasics
 {
-
     public class Homework_1
     {
         public void Task_1()

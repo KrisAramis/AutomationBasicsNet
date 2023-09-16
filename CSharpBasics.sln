@@ -8,6 +8,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpOOP4", "CSharpOOP4\CS
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpCollections1", "CSharpCollections1\CSharpCollections1.csproj", "{411362D7-4902-4B5F-9BEC-9234C91DF66E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQ", "LINQ\LINQ.csproj", "{CC4205CB-4292-45DB-9D84-F52D5DF8FE63}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,9 @@ Global
 		{411362D7-4902-4B5F-9BEC-9234C91DF66E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{411362D7-4902-4B5F-9BEC-9234C91DF66E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{411362D7-4902-4B5F-9BEC-9234C91DF66E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC4205CB-4292-45DB-9D84-F52D5DF8FE63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC4205CB-4292-45DB-9D84-F52D5DF8FE63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC4205CB-4292-45DB-9D84-F52D5DF8FE63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC4205CB-4292-45DB-9D84-F52D5DF8FE63}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
