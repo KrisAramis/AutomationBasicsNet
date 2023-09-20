@@ -10,6 +10,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpCollections1", "CShar
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQ", "LINQ\LINQ.csproj", "{CC4205CB-4292-45DB-9D84-F52D5DF8FE63}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Decorator", "Decorator\Decorator.csproj", "{A721924B-EC94-42AD-B0D5-1620CE41872D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Factory Method", "Factory Method\Factory Method.csproj", "{B6FA71FF-FFB4-4083-A631-6E8F6BCCE0C3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,5 +40,13 @@ Global
 		{CC4205CB-4292-45DB-9D84-F52D5DF8FE63}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CC4205CB-4292-45DB-9D84-F52D5DF8FE63}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CC4205CB-4292-45DB-9D84-F52D5DF8FE63}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A721924B-EC94-42AD-B0D5-1620CE41872D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A721924B-EC94-42AD-B0D5-1620CE41872D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A721924B-EC94-42AD-B0D5-1620CE41872D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A721924B-EC94-42AD-B0D5-1620CE41872D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6FA71FF-FFB4-4083-A631-6E8F6BCCE0C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6FA71FF-FFB4-4083-A631-6E8F6BCCE0C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6FA71FF-FFB4-4083-A631-6E8F6BCCE0C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6FA71FF-FFB4-4083-A631-6E8F6BCCE0C3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
