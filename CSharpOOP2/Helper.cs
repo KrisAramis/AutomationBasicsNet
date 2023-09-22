@@ -3,7 +3,7 @@
     public static class CarHelper
     {
 
-        public static void RepaintCar(Car car, string newColor)
+        public static void RepaintCar(this Car car, string newColor)
         {
             car.Color = newColor;
         }
@@ -17,7 +17,7 @@
             }
         }
 
-        public static void ReturnCarInfo(Car car)
+        public static void ReturnCarInfo(this Car car)
         {
             Console.WriteLine($"{car.Model} produced in {car.ProductionYear} has {car.Color} color.");
         }
