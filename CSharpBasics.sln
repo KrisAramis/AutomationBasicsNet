@@ -26,7 +26,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatorTestsXUnit", "Cal
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeleniumBasics", "SeleniumBasics\SeleniumBasics.csproj", "{D9E41B6D-AFAB-43EC-8A0F-E27671175D86}"
 EndProject
-=======
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -85,6 +84,5 @@ Global
 		{D9E41B6D-AFAB-43EC-8A0F-E27671175D86}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D9E41B6D-AFAB-43EC-8A0F-E27671175D86}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D9E41B6D-AFAB-43EC-8A0F-E27671175D86}.Release|Any CPU.Build.0 = Release|Any CPU
-=======
 	EndGlobalSection
 EndGlobal
